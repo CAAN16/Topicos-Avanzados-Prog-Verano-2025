@@ -1,0 +1,21 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Microsoft.Net.Sdk.Compilers.Toolset/9.0.300": {}
+    }
+  },
+  "libraries": {
+    "Microsoft.Net.Sdk.Compilers.Toolset/9.0.300": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-M5BC6bp9Sc3Og5LG3au1PkEXCO2WYMEaOwROwvN4WJWOuob0YpFVk0En/6FXeNDYE7rE1xAwEk5NxmuklWC6kA==",
+      "path": "microsoft.net.sdk.compilers.toolset/9.0.300",
+      "hashPath": "microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512"
+    }
+  }
+}
