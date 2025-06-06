@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tviCwlc/E60=",
+  "dgSpecHash": "jpV14L231HA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\carli\\Downloads\\Names\\Names.csproj",
+  "projectFilePath": "C:\\Users\\carli\\Documents\\GitHub\\Topicos-Avanzados-Prog-Verano-2025\\Names\\Names.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carli\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512",
     "C:\\Users\\carli\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512"

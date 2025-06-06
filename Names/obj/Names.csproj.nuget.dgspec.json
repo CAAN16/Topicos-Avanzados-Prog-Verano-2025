@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carli\\Downloads\\Names\\Names.csproj": {}
+    "C:\\Users\\carli\\Documents\\GitHub\\Topicos-Avanzados-Prog-Verano-2025\\Names\\Names.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carli\\Downloads\\Names\\Names.csproj": {
+    "C:\\Users\\carli\\Documents\\GitHub\\Topicos-Avanzados-Prog-Verano-2025\\Names\\Names.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carli\\Downloads\\Names\\Names.csproj",
+        "projectUniqueName": "C:\\Users\\carli\\Documents\\GitHub\\Topicos-Avanzados-Prog-Verano-2025\\Names\\Names.csproj",
         "projectName": "Names",
-        "projectPath": "C:\\Users\\carli\\Downloads\\Names\\Names.csproj",
+        "projectPath": "C:\\Users\\carli\\Documents\\GitHub\\Topicos-Avanzados-Prog-Verano-2025\\Names\\Names.csproj",
         "packagesPath": "C:\\Users\\carli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carli\\Downloads\\Names\\obj\\",
+        "outputPath": "C:\\Users\\carli\\Documents\\GitHub\\Topicos-Avanzados-Prog-Verano-2025\\Names\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

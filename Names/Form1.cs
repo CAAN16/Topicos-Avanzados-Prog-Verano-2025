@@ -14,8 +14,10 @@ namespace Names
                 txtName.Clear();
             }
             else{
-                MessageBox.Show("No es posible ingrear cadenas vacias, con espacios en blanco o nombres repetidos");
+                MessageBox.Show("No es posible ingresar cadenas vacias, con espacios en blanco o nombres repetidos");
             }
+            Console.WriteLine("Hola Mundo");
+            
         }
     }
 }
