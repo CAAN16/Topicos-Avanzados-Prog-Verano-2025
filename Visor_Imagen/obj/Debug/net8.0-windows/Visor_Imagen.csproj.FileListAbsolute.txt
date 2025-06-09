@@ -1,0 +1,17 @@
+C:\Users\carli\Downloads\Visor_Imagen\bin\Debug\net8.0-windows\Visor_Imagen.exe
+C:\Users\carli\Downloads\Visor_Imagen\bin\Debug\net8.0-windows\Visor_Imagen.deps.json
+C:\Users\carli\Downloads\Visor_Imagen\bin\Debug\net8.0-windows\Visor_Imagen.runtimeconfig.json
+C:\Users\carli\Downloads\Visor_Imagen\bin\Debug\net8.0-windows\Visor_Imagen.dll
+C:\Users\carli\Downloads\Visor_Imagen\bin\Debug\net8.0-windows\Visor_Imagen.pdb
+C:\Users\carli\Downloads\Visor_Imagen\obj\Debug\net8.0-windows\Visor_Imagen.Form1.resources
+C:\Users\carli\Downloads\Visor_Imagen\obj\Debug\net8.0-windows\Visor_Imagen.Properties.Resources.resources
+C:\Users\carli\Downloads\Visor_Imagen\obj\Debug\net8.0-windows\Visor_Imagen.csproj.GenerateResource.cache
+C:\Users\carli\Downloads\Visor_Imagen\obj\Debug\net8.0-windows\Visor_Imagen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carli\Downloads\Visor_Imagen\obj\Debug\net8.0-windows\Visor_Imagen.AssemblyInfoInputs.cache
+C:\Users\carli\Downloads\Visor_Imagen\obj\Debug\net8.0-windows\Visor_Imagen.AssemblyInfo.cs
+C:\Users\carli\Downloads\Visor_Imagen\obj\Debug\net8.0-windows\Visor_Imagen.csproj.CoreCompileInputs.cache
+C:\Users\carli\Downloads\Visor_Imagen\obj\Debug\net8.0-windows\Visor_Imagen.dll
+C:\Users\carli\Downloads\Visor_Imagen\obj\Debug\net8.0-windows\refint\Visor_Imagen.dll
+C:\Users\carli\Downloads\Visor_Imagen\obj\Debug\net8.0-windows\Visor_Imagen.pdb
+C:\Users\carli\Downloads\Visor_Imagen\obj\Debug\net8.0-windows\Visor_Imagen.genruntimeconfig.cache
+C:\Users\carli\Downloads\Visor_Imagen\obj\Debug\net8.0-windows\ref\Visor_Imagen.dll
