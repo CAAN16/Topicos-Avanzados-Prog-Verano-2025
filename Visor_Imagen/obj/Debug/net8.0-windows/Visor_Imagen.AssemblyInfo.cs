@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Visor_Imagen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77d961d7da680c5654d647ee6a82f9b093cf7c20")]
 [assembly: System.Reflection.AssemblyProductAttribute("Visor_Imagen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Visor_Imagen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
