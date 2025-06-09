@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carli\\Downloads\\Visor_Imagen\\Visor_Imagen.csproj",
+      "projectUniqueName": "C:\\Users\\carli\\Documents\\GitHub\\Topicos-Avanzados-Prog-Verano-2025\\Visor_Imagen\\Visor_Imagen.csproj",
       "projectName": "Visor_Imagen",
-      "projectPath": "C:\\Users\\carli\\Downloads\\Visor_Imagen\\Visor_Imagen.csproj",
+      "projectPath": "C:\\Users\\carli\\Documents\\GitHub\\Topicos-Avanzados-Prog-Verano-2025\\Visor_Imagen\\Visor_Imagen.csproj",
       "packagesPath": "C:\\Users\\carli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carli\\Downloads\\Visor_Imagen\\obj\\",
+      "outputPath": "C:\\Users\\carli\\Documents\\GitHub\\Topicos-Avanzados-Prog-Verano-2025\\Visor_Imagen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
