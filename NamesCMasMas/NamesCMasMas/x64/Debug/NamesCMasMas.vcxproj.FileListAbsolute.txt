@@ -1,3 +1,6 @@
 C:\Users\carli\Downloads\NamesCMasMas\NamesCMasMas\x64\Debug\NamesCMasMas.vcxproj.AssemblyReference.cache
 C:\Users\carli\Downloads\NamesCMasMas\NamesCMasMas\x64\Debug\NamesCMasMas.Names.resources
 C:\Users\carli\Downloads\NamesCMasMas\NamesCMasMas\x64\Debug\NamesCMasMas.vcxproj.GenerateResource.cache
+C:\Users\carli\Documents\GitHub\Topicos-Avanzados-Prog-Verano-2025\NamesCMasMas\NamesCMasMas\x64\Debug\NamesCMasMas.vcxproj.AssemblyReference.cache
+C:\Users\carli\Documents\GitHub\Topicos-Avanzados-Prog-Verano-2025\NamesCMasMas\NamesCMasMas\x64\Debug\NamesCMasMas.Names.resources
+C:\Users\carli\Documents\GitHub\Topicos-Avanzados-Prog-Verano-2025\NamesCMasMas\NamesCMasMas\x64\Debug\NamesCMasMas.vcxproj.GenerateResource.cache
