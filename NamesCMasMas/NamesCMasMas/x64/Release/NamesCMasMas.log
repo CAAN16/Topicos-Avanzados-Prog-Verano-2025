@@ -1,0 +1,4 @@
+﻿  Names.cpp
+C:\Users\carli\Downloads\NamesCMasMas\Names.cpp(7,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Names.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  NamesCMasMas.vcxproj -> C:\Users\carli\Downloads\NamesCMasMas\x64\Release\NamesCMasMas.exe

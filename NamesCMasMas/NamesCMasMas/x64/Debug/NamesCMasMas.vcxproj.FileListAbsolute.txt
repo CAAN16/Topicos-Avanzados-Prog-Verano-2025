@@ -1,0 +1,3 @@
+C:\Users\carli\Downloads\NamesCMasMas\NamesCMasMas\x64\Debug\NamesCMasMas.vcxproj.AssemblyReference.cache
+C:\Users\carli\Downloads\NamesCMasMas\NamesCMasMas\x64\Debug\NamesCMasMas.Names.resources
+C:\Users\carli\Downloads\NamesCMasMas\NamesCMasMas\x64\Debug\NamesCMasMas.vcxproj.GenerateResource.cache
