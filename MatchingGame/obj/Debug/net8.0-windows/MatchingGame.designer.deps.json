@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v8.0",
@@ -8,4 +9,16 @@
     ".NETCoreApp,Version=v8.0": {}
   },
   "libraries": {}
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {}
+  },
+  "libraries": {}
+>>>>>>> 857c5f728b681d0266d0594d5097e4d691ba4546
 }
