@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsoDeLibreriasNugget", "UsoDeLibreriasNugget.csproj", "{A04145D1-E383-41C0-B593-BD51634EE6EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A04145D1-E383-41C0-B593-BD51634EE6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04145D1-E383-41C0-B593-BD51634EE6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04145D1-E383-41C0-B593-BD51634EE6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04145D1-E383-41C0-B593-BD51634EE6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B7525F7-C565-4927-B0E3-F1542215DCB6}
+	EndGlobalSection
+EndGlobal
