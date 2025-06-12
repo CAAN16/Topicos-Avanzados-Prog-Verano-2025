@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomControlProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cb97b8cd59836a9d9a82442e3f6654e717f28e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afe1724190317ae48dec1df6fef95be148624203")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomControlProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomControlProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
