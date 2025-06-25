@@ -66,7 +66,7 @@
             // 
             // btnExit
             // 
-            btnExit.Location = new Point(520, 181);
+            btnExit.Location = new Point(394, 171);
             btnExit.Name = "btnExit";
             btnExit.Size = new Size(86, 29);
             btnExit.TabIndex = 3;
@@ -78,12 +78,13 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(645, 222);
+            ClientSize = new Size(530, 222);
             Controls.Add(btnExit);
             Controls.Add(btnGoToFillOrCancel);
             Controls.Add(btnGoToAdd);
             Controls.Add(label1);
             Name = "frmNavegacion";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Inicio";
             ResumeLayout(false);
             PerformLayout();

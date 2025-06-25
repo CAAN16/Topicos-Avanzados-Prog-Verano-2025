@@ -202,6 +202,7 @@
             Controls.Add(groupBox2);
             Controls.Add(groupBox1);
             Name = "frmNuevoCliente";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Cuenta y pedidos nuevos";
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();

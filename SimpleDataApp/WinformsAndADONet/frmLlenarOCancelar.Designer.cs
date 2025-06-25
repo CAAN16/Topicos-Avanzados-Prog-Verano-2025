@@ -142,6 +142,7 @@
             Controls.Add(txtOrderID);
             Controls.Add(label2);
             Name = "frmLlenarOCancelar";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)dgvCustomerOrders).EndInit();
             ResumeLayout(false);
