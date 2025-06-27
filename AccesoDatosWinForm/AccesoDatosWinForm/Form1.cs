@@ -1,4 +1,5 @@
 using AccesoDatosWinForm.data;
+using System.Drawing.Design;
 
 namespace AccesoDatosWinForm
 {
@@ -70,26 +71,26 @@ namespace AccesoDatosWinForm
         private void cargarProducts()
         {
             //var ad = new AccesoDatosMySql("localhost", "nwind",
-            //    "root", "700r", 3306);
+            //    "root", "12345", 3306);
             //var dt = ad.queryTable(
             //    "SELECT * FROM products",
             //    null
             //    );
             //dgv.DataSource = dt;
 
-            using (var ad = new AccesoDatosMySql(
-                "localhost", "nwind",
-                "root", "12345", 3306
-                ))
-            {
-                var dt = ad.queryTable(
-                "SELECT * FROM products",
-                null
-                );
-                dgv.DataSource = dt;
-            }
+            //using (var ad = new AccesoDatosMySql(
+            //    "localhost", "nwind",
+            //    "root", "12345", 3306
+            //    ))
+            //{
+            //    var dt = ad.queryTable(
+            //    "SELECT * FROM products",
+            //    null
+            //    );
+            //    dgv.DataSource = dt;
+            //}
 
-            
+            dgv.DataSource = new DAOCategory().getAll();
         }
 
         private async void btnSaveAsync_Click(object sender, EventArgs e)
@@ -115,7 +116,15 @@ namespace AccesoDatosWinForm
                 prmts
                 );
 
-            MessageBox.Show($"Filas afectas asyncronas {resukt}");
+            //MessageBox.Show($"Filas afectas asyncronas {resukt}");
+
+            if (new DAOCategory().insert(
+                new model.Category)
+            {
+                CategoryName 
+            }
+
+            MessageBox.Show("");
         }
     }
 }

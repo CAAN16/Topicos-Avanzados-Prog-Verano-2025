@@ -37,10 +37,10 @@
             // 
             // btnGuardar
             // 
-            btnGuardar.Location = new Point(523, 283);
-            btnGuardar.Margin = new Padding(2);
+            btnGuardar.Location = new Point(458, 212);
+            btnGuardar.Margin = new Padding(2, 2, 2, 2);
             btnGuardar.Name = "btnGuardar";
-            btnGuardar.Size = new Size(90, 27);
+            btnGuardar.Size = new Size(78, 20);
             btnGuardar.TabIndex = 0;
             btnGuardar.Text = "Guardar";
             btnGuardar.UseVisualStyleBackColor = true;
@@ -49,28 +49,28 @@
             // cboCAtegory
             // 
             cboCAtegory.FormattingEnabled = true;
-            cboCAtegory.Location = new Point(10, 10);
-            cboCAtegory.Margin = new Padding(2);
+            cboCAtegory.Location = new Point(8, 7);
+            cboCAtegory.Margin = new Padding(2, 2, 2, 2);
             cboCAtegory.Name = "cboCAtegory";
-            cboCAtegory.Size = new Size(270, 28);
+            cboCAtegory.Size = new Size(237, 23);
             cboCAtegory.TabIndex = 1;
             // 
             // dgv
             // 
             dgv.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgv.Location = new Point(10, 52);
-            dgv.Margin = new Padding(2);
+            dgv.Location = new Point(8, 39);
+            dgv.Margin = new Padding(2, 2, 2, 2);
             dgv.Name = "dgv";
             dgv.RowHeadersWidth = 62;
-            dgv.Size = new Size(608, 203);
+            dgv.Size = new Size(541, 143);
             dgv.TabIndex = 2;
             // 
             // btnSaveAsync
             // 
-            btnSaveAsync.Location = new Point(470, 315);
-            btnSaveAsync.Margin = new Padding(2);
+            btnSaveAsync.Location = new Point(412, 236);
+            btnSaveAsync.Margin = new Padding(2, 2, 2, 2);
             btnSaveAsync.Name = "btnSaveAsync";
-            btnSaveAsync.Size = new Size(148, 27);
+            btnSaveAsync.Size = new Size(130, 20);
             btnSaveAsync.TabIndex = 3;
             btnSaveAsync.Text = "Guardar Async";
             btnSaveAsync.UseVisualStyleBackColor = true;
@@ -78,16 +78,15 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(640, 360);
+            ClientSize = new Size(560, 270);
             Controls.Add(btnSaveAsync);
             Controls.Add(dgv);
             Controls.Add(cboCAtegory);
             Controls.Add(btnGuardar);
-            Margin = new Padding(2);
+            Margin = new Padding(2, 2, 2, 2);
             Name = "Form1";
-            StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)dgv).EndInit();
