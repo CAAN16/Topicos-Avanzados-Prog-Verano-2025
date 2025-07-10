@@ -1,3 +1,4 @@
+
 using GetStartedWinforms.data;
 using GetStartedWinforms.model;
 using Microsoft.EntityFrameworkCore;
@@ -51,9 +52,9 @@ namespace GetStartedWinforms
         private void buttonSave_Click(object sender, EventArgs e)
         {
             this.dbContext!.SaveChanges();
-
             this.dataGridViewCategories.Refresh();
             this.dataGridViewProducts.Refresh();
+            MessageBox.Show("Cambios guardados exitosamente");
         }
     }
 }
